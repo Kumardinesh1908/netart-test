@@ -52,6 +52,11 @@ body{
     width: 100%;
 }
 
+.national-awards p{
+    line-height: 2;
+    word-spacing: 2px;
+}
+
 .products{
     margin-top: 20px;
     display: flex;
